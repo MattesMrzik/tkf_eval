@@ -1,0 +1,19 @@
+[submodule "bin/indel_asr"]
+	path = bin/indel_asr
+	url = git@github.com:MattesMrzik/indel_asr.git
+[submodule "bin/root_tree"]
+	path = bin/root_tree
+	url = git@github.com:MattesMrzik/root_tree.git
+[submodule "bin/JATI"]
+	path = bin/JATI
+	url = git@github.com:MattesMrzik/JATI.git
+	branch = tkf_tree_search_jati
+[submodule "bin/model_search_phylo"]
+	path = bin/model_search_phylo
+	url = git@github.com:MattesMrzik/model_search_phylo.git
+[submodule "bin/simulate_tkf"]
+	path = bin/simulate_tkf
+	url = git@github.com:MattesMrzik/simulate_tkf.git
+[submodule "tkf_pipeline"]
+	path = tkf_pipeline
+	url = git@github.com:MattesMrzik/tkf_pipeline.git
