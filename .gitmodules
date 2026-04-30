@@ -17,3 +17,6 @@
 [submodule "tkf_pipeline"]
 	path = tkf_pipeline
 	url = git@github.com:MattesMrzik/tkf_pipeline.git
+[submodule "tools/prune_empty_leaves"]
+	path = tools/prune_empty_leaves
+	url = git@github.com:MattesMrzik/prune_empty_leaves.git
