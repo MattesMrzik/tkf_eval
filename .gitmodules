@@ -22,4 +22,4 @@
 	url = git@github.com:MattesMrzik/prune_empty_leaves.git
 [submodule "nextflow_tkf_pipeline"]
 	path = nextflow_tkf_pipeline
-	url = https://github.com/MattesMrzik/nextflow_tkf_pipeline
+	url = git@github.com:MattesMrzik/nextflow_tkf_pipeline.git
